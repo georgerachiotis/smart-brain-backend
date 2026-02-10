@@ -19,9 +19,9 @@ Backend API for the Smart Brain face recognition application.
 ## Getting Started
 
 ### 1. Clone the repository
-  `bash`
+  `bash
 git clone https://github.com/georgerachiotis/smart-brain-backend.git
-cd smart-brain-backend
+cd smart-brain-backend`
 
 ### 2. Install dependencies
 npm install
@@ -50,7 +50,7 @@ This project was built as part of the Zero To Mastery Web Developer course and i
 
 
 After pasting:
-  `bash`
+  `bash
 git add README.md
 git commit -m "Add backend README"
-git push
+git push`
