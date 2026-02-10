@@ -30,8 +30,10 @@ npm install
 ```
 
 ### 3. Create a .env file
+```env
 DATABASE_URL=your_postgres_connection_string
 CLARIFAI_PAT=your_clarifai_api_key
+```
 
 ### 4. Start the server
 ```bash
